@@ -1,0 +1,11 @@
+Date: Feb 22, 2021
+Start Time: 5:25 pm
+
+1. Set up file structure
+2. Create SRS.txt
+3. Create README.txt
+4. Link repository from github.com
+    - test commit/push
+
+
+End Time: 7:00 pm

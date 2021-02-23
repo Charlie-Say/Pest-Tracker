@@ -1,13 +1,61 @@
-Purpose:
+1. Introduction
 
+    Pests, Errors, Maintain, Progress.
 
+1.1 Purpose
 
-Description:
+    This project will serve as a means to keep track and maintain project expectations and requirements. It will be able to run on a desktop or mobile device to efficiently report encounters with errors and record it into a database where the user will be able to track, test, and fix.
 
+1.2 Intended Audience
 
+    Organizations that will use this utility will include developers, testers, and project managers. It will be able to be easily maintained and adaptable to include stakeholders in other departments, including leadership teams, sales, and marketing.
 
-Specific Requirements:
+1.3 Intended Use
 
+    This software should be used to to keep track of progress and to manage bugs within the production of building new software or reporting to other team members of the status of progress.
 
+1.4 Scope
 
+    The goal of this software is to reduce the amount of time needed for managing problematic issues and to efficiently maintain the status of bugs. It will also help increase efficiency of communication between team members.
 
+1.5 Definitions and Acronyms
+
+    n/a.
+
+2. Overall Description
+
+    This will be a software that will imitate what is currently being used in the industry by developers, testers, and project managers. It will be used for me to keep track of my progress and identify any issues that will appear in future projects.
+
+2.1 User Needs
+
+    It will be a responsive GUI that will be easy to navigate through with its simplicity. The GUI will be easily understood so that it can be recycled and used for other purposes.
+
+2.2 Assumptions and Dependencies
+
+    n/a, yet.
+
+3. System Features and Requirements
+
+            3.1 Functional Requirements
+
+                a) Must be able to read and write files
+                b) Must be able to store issues with an id to easily be searched
+
+            3.2 External Interface Requirements
+
+                a) GUI tools
+                b) Web and mobile development tools
+
+            3.3 System Features
+
+                a) Report Type of Issue
+                b) Description
+                c) Date & Time
+                d) Notes
+                e) User Login Credentials
+
+            3.4 Nonfunctional Requirements
+
+                a) Needs to be responsive
+                b) Must be secure
+                c) Needs to be simple enough for code reusability
